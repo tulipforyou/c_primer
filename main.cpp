@@ -35,9 +35,10 @@ int main() {
     //calculateThePrice();
     //getlineTest();
     //vectorTest();
-    ddqTest();
+    //ddqTest();
     cout<<"***-----------thirdProgram.cpp----------***"<<endl<<endl;
-    cout<<"sch love you!"<<endl;
+    //cout<<"sch love you!"<<endl;
+    move_bit();
     return 0;
 }
 

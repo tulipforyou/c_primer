@@ -3,9 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
-int arrayTest()  //数组测试
+#include "thirdProgram.h"
+int move_bit()
 {
-
-
+    unsigned char bit=025;
+    bit=bit<<5;
+    cout<<char(bit)<<endl;
 }

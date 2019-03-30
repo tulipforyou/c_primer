@@ -13,8 +13,10 @@
 
 #ifndef THIRDPROGRAM_H
 #define THIRDPROGRAM_H
+#include<iostream>
+using namespace std;
 
-
+int move_bit();
 
 #endif /* THIRDPROGRAM_H */
 
