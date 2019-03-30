@@ -1,0 +1,3 @@
+/home/baby/CLionProjects/C++_primer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/baby/CLionProjects/C++_primer/cmake-build-debug/CMakeFiles/C___primer.dir
+/home/baby/CLionProjects/C++_primer/cmake-build-debug/CMakeFiles/edit_cache.dir

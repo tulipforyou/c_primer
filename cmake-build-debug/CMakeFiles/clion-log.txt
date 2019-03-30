@@ -1,0 +1,4 @@
+/home/baby/下载/CLion-2019.1/clion-2019.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/baby/CLionProjects/C++_primer
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/baby/CLionProjects/C++_primer/cmake-build-debug
