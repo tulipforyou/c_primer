@@ -37,7 +37,7 @@ int main() {
     //vectorTest();
     ddqTest();
     cout<<"***-----------thirdProgram.cpp----------***"<<endl<<endl;
-    cout<<"sch i love you"<<endl;
+    cout<<"sch love you"<<endl;
     return 0;
 }
 
