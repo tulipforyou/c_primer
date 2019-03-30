@@ -49,7 +49,7 @@ int vectorTest()   //vector test!!!
 {
     vector<unsigned> scores(11,0);  //11个分数段
     cout<<"请输入学生成绩,我们将对其进行分段处理："<<endl;
-    unsigned grade;
+    unsigned grade=0;
     while(cin>>grade && grade!=-1)
     {
         if(0<=grade<=100)

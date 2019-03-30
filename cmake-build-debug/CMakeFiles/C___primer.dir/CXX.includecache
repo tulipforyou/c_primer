@@ -6,37 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/baby/CLionProjects/C++_primer/firstProgram.cpp
-iostream
--
-firstProgram.h
-/home/baby/CLionProjects/C++_primer/firstProgram.h
-
-/home/baby/CLionProjects/C++_primer/firstProgram.h
-
-/home/baby/CLionProjects/C++_primer/main.cpp
-iostream
--
-firstProgram.h
-/home/baby/CLionProjects/C++_primer/firstProgram.h
-secondProgram.h
-/home/baby/CLionProjects/C++_primer/secondProgram.h
+/home/baby/CLionProjects/C++_primer/thirdProgram.cpp
 thirdProgram.h
 /home/baby/CLionProjects/C++_primer/thirdProgram.h
 
-/home/baby/CLionProjects/C++_primer/secondProgram.cpp
-secondProgram.h
-/home/baby/CLionProjects/C++_primer/secondProgram.h
-
-/home/baby/CLionProjects/C++_primer/secondProgram.h
+/home/baby/CLionProjects/C++_primer/thirdProgram.h
 iostream
 -
-cctype
--
-vector
--
-
-/home/baby/CLionProjects/C++_primer/thirdProgram.cpp
-
-/home/baby/CLionProjects/C++_primer/thirdProgram.h
 

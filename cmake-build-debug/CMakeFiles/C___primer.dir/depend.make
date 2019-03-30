@@ -13,4 +13,5 @@ CMakeFiles/C___primer.dir/secondProgram.cpp.o: ../secondProgram.cpp
 CMakeFiles/C___primer.dir/secondProgram.cpp.o: ../secondProgram.h
 
 CMakeFiles/C___primer.dir/thirdProgram.cpp.o: ../thirdProgram.cpp
+CMakeFiles/C___primer.dir/thirdProgram.cpp.o: ../thirdProgram.h
 
