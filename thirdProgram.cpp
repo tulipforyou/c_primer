@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+#include <vector>
 #include "thirdProgram.h"
 
 int move_bit()  //语句测试
@@ -34,27 +35,49 @@ int move_bit()  //语句测试
         cout << scores << endl;
         section = 5;
     }
-    else if(scores>100||scores<0){
+    else {
         cout<<scores<<endl;
         section=6;
     }
-
     switch (section)
     {
-        case 0:cout<<"your score is too low! the score is C"<<endl;
+        case 0:
+            cout<<"your score is too low! the score is C"<<endl;
             break;
-        case 1:cout<<"your score is a bit low! the score is B"<<endl;
+        case 1:
+            cout<<"your score is a bit low! the score is B"<<endl;
             break;
-        case 2:cout<<"your score is common! the score is A"<<endl;
+        case 2:
+            cout<<"your score is common! the score is A"<<endl;
             break;
-        case 3:cout<<"your score is a bit high! the score is S"<<endl;
+        case 3:
+            cout<<"your score is a bit high! the score is S"<<endl;
             break;
-        case 4:cout<<"your score is high! the score is SS"<<endl;
+        case 4:
+            cout<<"your score is high! the score is SS"<<endl;
             break;
-        case 5:cout<<"your score is so high! the score is SSS"<<endl;
+        case 5:
+            cout<<"your score is so high! the score is SSS"<<endl;
             break;
-        default:cout<<"input a error score!!!!" <<endl;
+        default:
+            cout<<"input a error score!!!!" <<endl;
             break;
     }
+    cout<<endl<<"while circulate test!!!"<<endl;
+    cout<<"input the numbers:"<<endl;
+    vector<int> v;
+    unsigned i=0;
+    while(cin>>i)
+    {
+        v.push_back(i);
+    }
+    auto beg=v.begin();
+    auto end=v.end();
+    while(beg!=end && *beg>0)
+    {
+        cout<<*beg<<" ";
+        ++beg;
+    }
+    cout<<endl;
     return 0;
 }
