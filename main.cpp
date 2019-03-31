@@ -38,7 +38,7 @@ int main() {
    // ddqTest();
     cout<<"***-----------thirdProgram.cpp----------***"<<endl<<endl;
     //cout<<"sch love you!"<<endl;
-    move_bit();
+    //move_bit();
     return 0;
 }
 
