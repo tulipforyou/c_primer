@@ -31,9 +31,14 @@ int move_bit()  //语句测试
         section=4;
     }
     else if(scores>=90&&scores<100){
-        cout<<scores<<endl;
-        section=5;
+        cout << scores << endl;
+        section = 5;
     }
+    else if(scores>100||scores<0){
+        cout<<scores<<endl;
+        section=6;
+    }
+
     switch (section)
     {
         case 0:cout<<"your score is too low! the score is C"<<endl;
@@ -47,6 +52,8 @@ int move_bit()  //语句测试
         case 4:cout<<"your score is high! the score is SS"<<endl;
             break;
         case 5:cout<<"your score is so high! the score is SSS"<<endl;
+            break;
+        default:cout<<"input a error score!!!!" <<endl;
             break;
     }
     return 0;
