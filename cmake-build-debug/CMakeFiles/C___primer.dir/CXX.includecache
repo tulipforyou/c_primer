@@ -6,13 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/baby/CLionProjects/C++_primer/thirdProgram.cpp
-vector
--
-thirdProgram.h
-/home/baby/CLionProjects/C++_primer/thirdProgram.h
+/home/baby/CLionProjects/C++_primer/fouthProgram.cpp
+fouthProgram.h
+/home/baby/CLionProjects/C++_primer/fouthProgram.h
 
-/home/baby/CLionProjects/C++_primer/thirdProgram.h
+/home/baby/CLionProjects/C++_primer/fouthProgram.h
 iostream
 -
 

@@ -4,7 +4,11 @@
 CMakeFiles/C___primer.dir/firstProgram.cpp.o: ../firstProgram.cpp
 CMakeFiles/C___primer.dir/firstProgram.cpp.o: ../firstProgram.h
 
+CMakeFiles/C___primer.dir/fouthProgram.cpp.o: ../fouthProgram.cpp
+CMakeFiles/C___primer.dir/fouthProgram.cpp.o: ../fouthProgram.h
+
 CMakeFiles/C___primer.dir/main.cpp.o: ../firstProgram.h
+CMakeFiles/C___primer.dir/main.cpp.o: ../fouthProgram.h
 CMakeFiles/C___primer.dir/main.cpp.o: ../main.cpp
 CMakeFiles/C___primer.dir/main.cpp.o: ../secondProgram.h
 CMakeFiles/C___primer.dir/main.cpp.o: ../thirdProgram.h

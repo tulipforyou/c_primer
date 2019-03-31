@@ -12,20 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7de4bc6-993a-42dd-a3e6-9b8066f6f7de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fouthProgram.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fouthProgram.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/C___primer" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/C___primer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/C___primer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/C___primer.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___primer.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/C___primer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fouthProgram.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/fouthProgram.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fouthProgram.h" beforeDir="false" afterPath="$PROJECT_DIR$/fouthProgram.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -50,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="573">
-              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
               <folding>
                 <element signature="e#267#286#0" expanded="true" />
               </folding>
@@ -62,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/fouthProgram.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -70,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fouthProgram.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="100">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -91,8 +85,8 @@
         <option value="$PROJECT_DIR$/secondProgram.cpp" />
         <option value="$PROJECT_DIR$/thirdProgram.h" />
         <option value="$PROJECT_DIR$/thirdProgram.cpp" />
-        <option value="$PROJECT_DIR$/fouthProgram.h" />
         <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/fouthProgram.h" />
         <option value="$PROJECT_DIR$/fouthProgram.cpp" />
       </list>
     </option>
@@ -100,7 +94,7 @@
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="61" />
     <option name="y" value="24" />
-    <option name="width" value="1005" />
+    <option name="width" value="1009" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -168,7 +162,7 @@
       <workItem from="1553998242106" duration="1201000" />
       <workItem from="1554000776001" duration="552000" />
       <workItem from="1554001419191" duration="3551000" />
-      <workItem from="1554007294982" duration="6046000" />
+      <workItem from="1554007294982" duration="7429000" />
     </task>
     <task id="LOCAL-00001" summary="version 0.2">
       <created>1553946160377</created>
@@ -240,11 +234,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554013441591</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="version 1.0">
+      <created>1554014092139</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554014092139</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22024000" />
+    <option name="totallyTimeSpent" value="23407000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -256,24 +257,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="24" width="1005" height="1056" extended-state="4" />
+    <frame x="61" y="24" width="1009" height="1056" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24451411" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24349636" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" auto_hide="true" x="1151" y="69" width="680" height="839" id="Run" order="2" type="FLOATING" weight="0.30503145" />
+      <window_info anchor="bottom" auto_hide="true" x="1091" y="70" width="680" height="839" id="Run" order="2" type="FLOATING" weight="0.30503145" />
       <window_info anchor="bottom" x="1066" y="128" width="854" height="595" id="Debug" order="3" type="FLOATING" weight="0.3197065" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32914045" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49529782" visible="true" weight="0.15441176" />
+      <window_info anchor="bottom" x="1073" y="471" width="796" height="587" id="Messages" order="8" sideWeight="0.6326743" visible="true" weight="0.2289916" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.6574642" weight="0.32668066" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5047022" side_tool="true" visible="true" weight="0.15441176" />
-      <window_info anchor="bottom" x="634" y="142" width="978" height="938" id="Version Control" order="11" sideWeight="0.49488753" weight="0.3277311" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3673257" side_tool="true" visible="true" weight="0.2289916" />
+      <window_info anchor="bottom" x="796" y="60" width="978" height="938" id="Version Control" order="11" sideWeight="0.4932362" type="FLOATING" weight="0.3277311" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32914045" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -316,6 +317,32 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 0.2" />
     <MESSAGE value="version 0.3" />
@@ -325,7 +352,8 @@
     <MESSAGE value="version 0.7" />
     <MESSAGE value="version 0.8" />
     <MESSAGE value="version 0.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 0.9" />
+    <MESSAGE value="version 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/c.cpp" />
@@ -404,7 +432,7 @@
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="573">
-          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
           <folding>
             <element signature="e#267#286#0" expanded="true" />
           </folding>
@@ -414,14 +442,14 @@
     <entry file="file://$PROJECT_DIR$/fouthProgram.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fouthProgram.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="100">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>

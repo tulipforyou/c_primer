@@ -8,6 +8,6 @@
 #include <iostream>
 using namespace std;
 
-int exceptionFunction();
+int FunctionTest();
 
 #endif //C___PRIMER_FOUTHPROGRAM_H

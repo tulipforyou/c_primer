@@ -41,7 +41,7 @@ int main() {
     //cout<<"sch love you!"<<endl;
     //move_bit();
     cout<<"***-----------fouthProgram.cpp----------***"<<endl<<endl;
-    exceptionFunction();
+    FunctionTest();
     return 0;
 }
 
