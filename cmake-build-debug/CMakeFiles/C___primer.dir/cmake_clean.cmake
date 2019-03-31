@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/C___primer.dir/firstProgram.cpp.o"
   "CMakeFiles/C___primer.dir/secondProgram.cpp.o"
   "CMakeFiles/C___primer.dir/thirdProgram.cpp.o"
+  "CMakeFiles/C___primer.dir/fouthProgram.cpp.o"
   "C___primer.pdb"
   "C___primer"
 )

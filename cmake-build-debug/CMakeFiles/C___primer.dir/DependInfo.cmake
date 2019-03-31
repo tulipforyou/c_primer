@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/baby/CLionProjects/C++_primer/firstProgram.cpp" "/home/baby/CLionProjects/C++_primer/cmake-build-debug/CMakeFiles/C___primer.dir/firstProgram.cpp.o"
+  "/home/baby/CLionProjects/C++_primer/fouthProgram.cpp" "/home/baby/CLionProjects/C++_primer/cmake-build-debug/CMakeFiles/C___primer.dir/fouthProgram.cpp.o"
   "/home/baby/CLionProjects/C++_primer/main.cpp" "/home/baby/CLionProjects/C++_primer/cmake-build-debug/CMakeFiles/C___primer.dir/main.cpp.o"
   "/home/baby/CLionProjects/C++_primer/secondProgram.cpp" "/home/baby/CLionProjects/C++_primer/cmake-build-debug/CMakeFiles/C___primer.dir/secondProgram.cpp.o"
   "/home/baby/CLionProjects/C++_primer/thirdProgram.cpp" "/home/baby/CLionProjects/C++_primer/cmake-build-debug/CMakeFiles/C___primer.dir/thirdProgram.cpp.o"

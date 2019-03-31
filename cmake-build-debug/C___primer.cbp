@@ -90,6 +90,12 @@
 		<Unit filename="/home/baby/CLionProjects/C++_primer/firstProgram.h">
 			<Option target="C___primer"/>
 		</Unit>
+		<Unit filename="/home/baby/CLionProjects/C++_primer/fouthProgram.cpp">
+			<Option target="C___primer"/>
+		</Unit>
+		<Unit filename="/home/baby/CLionProjects/C++_primer/fouthProgram.h">
+			<Option target="C___primer"/>
+		</Unit>
 		<Unit filename="/home/baby/CLionProjects/C++_primer/main.cpp">
 			<Option target="C___primer"/>
 		</Unit>

@@ -150,6 +150,33 @@ firstProgram.cpp.s:
 	$(MAKE) -f CMakeFiles/C___primer.dir/build.make CMakeFiles/C___primer.dir/firstProgram.cpp.s
 .PHONY : firstProgram.cpp.s
 
+fouthProgram.o: fouthProgram.cpp.o
+
+.PHONY : fouthProgram.o
+
+# target to build an object file
+fouthProgram.cpp.o:
+	$(MAKE) -f CMakeFiles/C___primer.dir/build.make CMakeFiles/C___primer.dir/fouthProgram.cpp.o
+.PHONY : fouthProgram.cpp.o
+
+fouthProgram.i: fouthProgram.cpp.i
+
+.PHONY : fouthProgram.i
+
+# target to preprocess a source file
+fouthProgram.cpp.i:
+	$(MAKE) -f CMakeFiles/C___primer.dir/build.make CMakeFiles/C___primer.dir/fouthProgram.cpp.i
+.PHONY : fouthProgram.cpp.i
+
+fouthProgram.s: fouthProgram.cpp.s
+
+.PHONY : fouthProgram.s
+
+# target to generate assembly for a file
+fouthProgram.cpp.s:
+	$(MAKE) -f CMakeFiles/C___primer.dir/build.make CMakeFiles/C___primer.dir/fouthProgram.cpp.s
+.PHONY : fouthProgram.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -243,6 +270,9 @@ help:
 	@echo "... firstProgram.o"
 	@echo "... firstProgram.i"
 	@echo "... firstProgram.s"
+	@echo "... fouthProgram.o"
+	@echo "... fouthProgram.i"
+	@echo "... fouthProgram.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

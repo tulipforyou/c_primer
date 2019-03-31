@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/baby/CLionProjects/C++_primer/cmake-build-debug
 CMakeFiles/C___primer.dir/all:
 	$(MAKE) -f CMakeFiles/C___primer.dir/build.make CMakeFiles/C___primer.dir/depend
 	$(MAKE) -f CMakeFiles/C___primer.dir/build.make CMakeFiles/C___primer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/baby/CLionProjects/C++_primer/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target C___primer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/baby/CLionProjects/C++_primer/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target C___primer"
 .PHONY : CMakeFiles/C___primer.dir/all
 
 # Include target in all.
@@ -81,7 +81,7 @@ all: CMakeFiles/C___primer.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/C___primer.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/baby/CLionProjects/C++_primer/cmake-build-debug/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/baby/CLionProjects/C++_primer/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/C___primer.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/baby/CLionProjects/C++_primer/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/C___primer.dir/rule
