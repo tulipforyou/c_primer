@@ -8,6 +8,8 @@
 #include <iostream>
 using namespace std;
 
-int FunctionTest();
+int reset(int &i);      //复位函数
+int set(int &i);        //置位函数
+
 
 #endif //C___PRIMER_FOUTHPROGRAM_H

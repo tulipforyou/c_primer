@@ -3,16 +3,14 @@
 //
 #include "fouthProgram.h"
 
-int FunctionTest()  //计算阶乘
+int reset(int &i)  //复位函数
 {
-    cout<<"please input the number which will be calculate:"<<endl;
-    int num;
-    cin>>num;
-    int sum=1;
-    while(1 <= num)
-    {
-        sum*=num--;
-    }
-    cout<<"the result is: "<<sum<<endl;
-    return 0;
+    i=0;
 }
+int set(int &i)    //置位函数
+{
+    i=1;
+}
+
+
+
